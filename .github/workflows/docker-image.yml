@@ -5,6 +5,8 @@ on:
     branches: [ main ]
 
 permissions:
+  contens: read
+  metadata: read
   packages: write
 
 jobs:
